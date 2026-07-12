@@ -1,0 +1,16 @@
+com\aicodereview\AiCodeReviewAgentApplication.class
+com\aicodereview\rag\TextChunker.class
+com\aicodereview\controller\ReviewController.class
+com\aicodereview\dto\SearchRequest.class
+com\aicodereview\dto\SearchResponse.class
+com\aicodereview\rag\PdfLoader.class
+com\aicodereview\repository\KnowledgeRepository.class
+com\aicodereview\entity\KnowledgeChunk.class
+com\aicodereview\rag\EmbeddingService.class
+com\aicodereview\rag\KnowledgeIndexer.class
+com\aicodereview\controller\KnowledgeController.class
+com\aicodereview\rag\RetrieverService.class
+com\aicodereview\rag\KnowledgeRetriever.class
+com\aicodereview\service\ReviewService.class
+com\aicodereview\service\KnowledgeService.class
+com\aicodereview\TestOllama.class
